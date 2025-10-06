@@ -24,9 +24,3 @@ Le projet est structuré en plusieurs sous-répertoires, chacun contenant un fic
 
 ---
 
-## Ressources utiles
-
-- [Syntaxe Markdown sur GitHub](https://docs.github.com/en/getstarted/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-andformatting-syntax)  
-- Exemple de code Markdown : [code_md.pdf](code_md.pdf)  
-
----
